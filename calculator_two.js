@@ -16,7 +16,6 @@ function getData(element){
   }else{
     item += data;
     answer.innerText = item;
-    console.log('hello');
   }
   
 }
